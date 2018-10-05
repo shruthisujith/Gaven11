@@ -1,6 +1,6 @@
 # Gaven11
-fix ratings 
+Fix ratings 
 # Gaven 12
 Fix recurring errors
 
-Colbert made a change
+Remove unnecessary comments.
